@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a developer and tech enthusiast, passionate about building innovative solutions and exploring new tools.
+
 <!--
 **Yashasvi-Mittal/Yashasvi-Mittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
